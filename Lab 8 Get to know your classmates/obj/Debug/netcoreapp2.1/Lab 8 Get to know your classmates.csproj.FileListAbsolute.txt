@@ -1,0 +1,11 @@
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.deps.json
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.runtimeconfig.json
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.runtimeconfig.dev.json
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.dll
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.pdb
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.csprojAssemblyReference.cache
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.csproj.CoreCompileInputs.cache
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.AssemblyInfoInputs.cache
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.AssemblyInfo.cs
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.dll
+C:\Users\Cody's PC\source\repos\Lab 8 Get to know your classmates\Lab 8 Get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 Get to know your classmates.pdb
